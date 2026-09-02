@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configuración de la página del navegador
 st.set_page_config(
-    page_title="Calculadora Emerson - Las Acacias",
+    page_title="Modelo Científico de Emerson (1975) | ASIA ACUACULTURA SAS Cel 3004390818",
     page_icon="🐟",
     layout="centered",
     initial_sidebar_state="expanded"
