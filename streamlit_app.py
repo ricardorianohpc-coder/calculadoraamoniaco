@@ -26,7 +26,7 @@ st.markdown("""
 
 # Título Principal
 st.title("🐟 Calculadora de Amoníaco en Tilapia")
-st.markdown("### Modelo Científico de Emerson (1975) | Piscícola Las Acacias")
+st.markdown("### Modelo Científico de Emerson (1975) | ASIA ACUACULTURA SAS Cel 3004390818")
 st.write("Esta herramienta móvil e interactiva permite separar las fracciones de amoníaco tóxico e ionizado a partir del pH, la temperatura y el TAN medido en tus tanques.")
 
 # Barra Lateral - Entradas de Datos
